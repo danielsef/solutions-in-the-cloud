@@ -1,10 +1,10 @@
 # Table of contents
 
-## Group 1
+## AWS
 
-* [AWS](README.md)
-  * [Page 2](group-1/aws/page-2.md)
-  * [Page 3](group-1/aws/page-3.md)
+* [Page 3](README.md)
+* [Page4](aws/page4.md)
+* [Page 2](aws/page-2.md)
 
 ## Group 2
 
