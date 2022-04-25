@@ -2,9 +2,9 @@
 
 ## AWS
 
-* [Page 3](README.md)
-* [Page4](aws/page4.md)
-* [Page 2](aws/page-2.md)
+* [Page 2](README.md)
+* [Page 3](group-1/aws/page-3.md)
+* [Page4](<README (1).md>)
 
 ## Group 2
 
